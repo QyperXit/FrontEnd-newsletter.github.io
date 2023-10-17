@@ -30,9 +30,9 @@ function updateImageSource() {
 	const imageElement = document.getElementById("myImage");
 
 	if (window.innerWidth < 768) {
-		imageElement.src = "/assets/images/illustration-sign-up-mobile.svg";
+		imageElement.src = "/assets/img/illustration-sign-up-mobile.svg";
 	} else {
-		imageElement.src = "/assets/images/illustration-sign-up-desktop.svg";
+		imageElement.src = "/assets/img/illustration-sign-up-desktop.svg";
 	}
 }
 
