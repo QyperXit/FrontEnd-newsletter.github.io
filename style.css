@@ -22,7 +22,7 @@ body {
 	max-width: 52rem;
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 767px) {
 	.all {
 		flex-direction: column-reverse;
 		padding: 0rem;
