@@ -130,7 +130,7 @@ input::placeholder {
 	input {
 		padding: 1rem 0rem;
 		width: 100%;
-		padding-left: 15px;
+		padding-left: 0px;
 	}
 
 	input:focus {
